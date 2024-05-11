@@ -1,0 +1,51 @@
+.purple {
+    color: #c770f0 !important;
+}
+
+.project-section {
+    position: relative !important;
+    padding-left: 45%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.project-heading {
+    color: white !important;
+    font-size: 50px !important;
+    font-weight: 500 !important;
+    padding-top: 10px !important;
+}
+
+.whoami-title{
+  padding-left: 35%;
+  padding-bottom: 5%;
+  padding-top: 2.4%;
+  font-size: 2.3em !important;
+  font-weight: 500 !important;
+} 
+
+.whoami-body{  
+  padding-left: 20%;
+  padding-bottom: 5%;
+  padding-top: 2.4%;
+  font-size: 25px !important;
+  font-weight: 500 !important;
+} 
+
+.parent {
+  text-align: center;
+}
+
+.child {
+  display: inline-block;
+  vertical-align: left;
+  margin-left: 5%;
+}
+
+.picture{
+  border-radius: 5%;
+  margin-left: 2.5cm;
+  width: 372px;
+  height: auto;
+}
+
